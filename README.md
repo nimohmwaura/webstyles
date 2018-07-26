@@ -21,6 +21,7 @@ To install using Yarn, run `yarn install && bower install`.
 Configure the destination folder. This is only the source code for the theme and the generated assets need to be
 copied to the panthoen repository in the `sites/all/themes` folder
 
+`export DIST=<pantheon_repo>/sites/all/themes`
 
 #### Step 5
 
