@@ -1,0 +1,24 @@
+.tabs--primary.nav-pills li a,
+.tabs--primary li a {
+  border: 1px solid #CDCDCD;
+  background: #FFFFFF;
+  color: #676C5F;
+}
+
+.tabs--primary.nav-pills li a:hover,
+.tabs--primary li a:hover {
+  border: 1px solid #A4AD5F;
+  background: #A4AD5F;
+  color: #ffffff;
+}
+
+.tabs--primary.nav-pills > li > a.active,
+.tabs--primary.nav-pills > li > a:focus,
+.tabs--primary.nav-pills li.active a:hover,
+.tabs--primary.nav-pills li.active a:focus,
+.tabs--primary li a.active,
+.tabs--primary li a:focus {
+  border: 1px solid #A4AD5F;
+  background: #A4AD5F;
+  color: #ffffff;
+}
